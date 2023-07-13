@@ -93,6 +93,6 @@ This work has been done by [Adrián Prados](http://roboticslab.uc3m.es/roboticsl
 In construction :construction_worker:
 
 ## Acknowledgement
-This work was supported by RoboCity2030 DIH-CM (S2018/NMT-4331, RoboCity2030 Madrid Robotics Digital Innovation Hub) and by the project PLEC2021-007819 financed by MCIN/AEI /10.13039/501100011033 y por la UE NextGenerationEU/PRTR
+This work was supported by RoboCity2030 DIH-CM (S2018/NMT-4331, RoboCity2030 Madrid Robotics Digital Innovation Hub) and by the project PLEC2021-007819 financed by MCIN/AEI /10.13039/501100011033 and by UE NextGenerationEU/PRTR
 
 
