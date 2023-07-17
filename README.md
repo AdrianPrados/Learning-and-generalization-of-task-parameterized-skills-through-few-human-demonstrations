@@ -23,7 +23,7 @@ It is highly recommended to install all the dependencies on a new virtual enviro
 
 ```bash
 conda create -n SyntheticLearning python==3.10.9
-conda activate Synthetic Learning
+conda activate SyntheticLearning
 ```
 
 ## Install from source
@@ -74,7 +74,7 @@ At the start the algorithm will load a map that will randomly generate the orien
 The code was written and tested on MATLAB 2021b in Ubuntu 20.04. The final swept task using the ADAM robot is presented in this [video](https://youtu.be/pD1HdoWJmfs).
 
 # Citation
-This work has been done by [Adrián Prados](http://roboticslab.uc3m.es/roboticslab/people/prados). Iy you use this code or the data please cite the following papers:
+This work has been done by [Adrián Prados](http://roboticslab.uc3m.es/roboticslab/people/prados). If you use this code or the data please cite the following papers:
 
 ### Paper for KFML data generator 
 ```bibtex
