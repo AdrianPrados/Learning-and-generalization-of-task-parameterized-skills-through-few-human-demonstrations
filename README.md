@@ -29,7 +29,7 @@ conda activate SyntheticLearning
 ## Install from source
 Firstly, clone the repository in your system.
 ```bash
-git clone https://github.com/AdrianPrados/TAICHI.git
+git clone https://github.com/AdrianPrados/Learning-and-generalization-of-task-parameterized-skills-through-few-human-demonstrations.git
 ```
 Then, enter the directory and install the required dependencies
 ```bash
