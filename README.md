@@ -90,7 +90,17 @@ This work has been done by [Adrián Prados](http://roboticslab.uc3m.es/roboticsl
 }
 ```
 ### Paper for the algorithm
-In construction :construction_worker:
+```bibtex
+@article{prados2024learning,
+  title={Learning and generalization of task-parameterized skills through few human demonstrations},
+  author={Prados, Adrian and Garrido, Santiago and Barber, Ramon},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={133},
+  pages={108310},
+  year={2024},
+  publisher={Elsevier}
+}
+```
 
 ## Acknowledgement
 This work was supported by RoboCity2030 DIH-CM (S2018/NMT-4331, RoboCity2030 Madrid Robotics Digital Innovation Hub) and by the project PLEC2021-007819 financed by MCIN/AEI /10.13039/501100011033 and by UE NextGenerationEU/PRTR
